@@ -6,7 +6,6 @@
 * [Setup](#setup)
 
 ## General Info
-This is a template for descriptive readme's.
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sollicitudin aliquam ultrices sagittis orci a scelerisque purus semper.
 
 ## Technologies
